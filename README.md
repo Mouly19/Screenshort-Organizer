@@ -83,3 +83,13 @@ User uploads screenshot → OCR extracts text → keywords are analyzed → imag
 - Cloud deployment (Render / AWS)
 - Better image preprocessing
 - Multi-language OCR support
+
+## 👨‍💻 Author
+
+Built as a learning project to understand:
+- OCR systems
+- Flask web development
+- Automation using Python
+
+---
+MOULY SIKDAR
